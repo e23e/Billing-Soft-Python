@@ -18,7 +18,8 @@ This app use python for backend and Tkinter for GUI and I used Sqlite3 for stori
     ```
     pyinstaller --hidden-import babel.numbers project.py --noconsole --onefile --icon=slogo.ico
     ```
-
+# license
+This APP is licensed with MIT license. For moreinfo [Read](https://opensource.org/licenses/MIT)
 # Bugs
 This software may conatin many bugs(Functional/Security), If you found any bugs you can report it via [Email](mailto:merbin8300@gmail.com)
 
