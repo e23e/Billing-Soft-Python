@@ -10,6 +10,8 @@ This app use python for backend and Tkinter for GUI and I used Sqlite3 for stori
 
 
 
+# Bugs
+This software may conatins many bugs, If you found any bugs you can report it via mailto:merbin8300@gmail.com
 
 
 
