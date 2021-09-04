@@ -9,7 +9,7 @@ This app use python for backend and Tkinter for GUI and I used Sqlite3 for stori
 4. Autocomplete (From DB)
 
 # Install
-1. Download https://github.com/e23e/billing-soft-python/archive/refs/heads/main.zip
+1. Download [the file](https://github.com/e23e/billing-soft-python/archive/refs/heads/main.zip)
 2. Unzip
 3. Install all required libraries/packages 
 4. Run the project.py file with python 3.x
@@ -18,10 +18,26 @@ This app use python for backend and Tkinter for GUI and I used Sqlite3 for stori
     ```
     pyinstaller --hidden-import babel.numbers project.py --noconsole --onefile --icon=slogo.ico
     ```
+    
+#Screenshot
+###Login Page
+
+
+
+###Dashboard
+
+
+
+###Invoice
+
+
+
 # license
-This APP is licensed with MIT license. For moreinfo [Read](https://opensource.org/licenses/MIT)
+This App is licensed with MIT license. For moreinfo [Read](https://opensource.org/licenses/MIT)
+Note: This App uses Ghostscript for printing the pdf. The Ghostscript is owned by Artifex and they have their own license terms, [Ref](https://www.ghostscript.com/license.html) 
 # Bugs
 This software may conatin many bugs(Functional/Security), If you found any bugs you can report it via [Email](mailto:merbin8300@gmail.com)
+
 
 
 
